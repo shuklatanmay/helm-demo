@@ -2,7 +2,7 @@ appName: app-backend-2
 replicaCount: 1
 
 image:
-  repository: 737185589565.dkr.ecr.ap-south-1.amazonaws.com/hello-world
+  repository: 737185589565.dkr.ecr.ap-south-1.amazonaws.com/nginx
   tag: latest
 
 containerPort: 80
