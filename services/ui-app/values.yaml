@@ -1,5 +1,5 @@
 appName: app-ui
-replicaCount: 2
+replicaCount: 1
 
 image:
   repository: 737185589565.dkr.ecr.ap-south-1.amazonaws.com/nginx
