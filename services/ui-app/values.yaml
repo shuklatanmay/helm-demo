@@ -3,7 +3,7 @@ replicaCount: 1
 
 image:
   repository: 737185589565.dkr.ecr.ap-south-1.amazonaws.com/nginx
-  tag: v1
+  tag: v2
 
 containerPort: 80
 
